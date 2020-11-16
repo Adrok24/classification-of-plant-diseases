@@ -9,6 +9,10 @@ La motivación es crear un clasificador para enfermedades de plantas con herrami
   <img src="https://github.com/Adrok24/classification-of-plant-diseases/blob/main/images/PlantVillageLogo.png?raw=true" alt="grafico_1"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/Adrok24/classification-of-plant-diseases/blob/main/images/plant_village_pic.jpg?raw=true" alt="grafico_2"/>
+</p>
+
 El dataset provisto por PlantVillage consta de 54303 imágenes de hojas sanas y no saludables divididas en 38 categorías por especie y enfermedad. El artículo original puede encontrarse en https://arxiv.org/pdf/1511.08060.pdf, realizado por David. P. Hughes, Marcel Salathe [[1]](#1). 
 
 
