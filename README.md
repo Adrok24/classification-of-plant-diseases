@@ -23,6 +23,19 @@ El dataset provisto por PlantVillage consta de 54303 imágenes de hojas sanas y 
 
 </p>
 
+## Modelos probados hasta ahora
+
+* CNN Custom
+
+* ResNet50
+
+* ResNet101V2 
+
+* Modelos Multi Output
+
+* VGG16
+
+
 
 
 
