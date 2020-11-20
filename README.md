@@ -23,6 +23,7 @@ El dataset provisto por PlantVillage consta de 54303 imágenes de hojas sanas y 
 
 </p>
 
+Distribución del dataset por clase
 
 <p align="center">
   <img src="https://github.com/Adrok24/classification-of-plant-diseases/blob/main/images/plants_distribution.png?raw=true" alt="grafico_2"/>
