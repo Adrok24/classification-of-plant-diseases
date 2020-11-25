@@ -30,6 +30,13 @@ Distribución del dataset por clase
 </p>
 
 
+Distribución del dataset por tipo de planta
+
+<p align="center">
+  <img src="https://github.com/Adrok24/classification-of-plant-diseases/blob/main/images/piechart_type.png?raw=true" alt="grafico_3"/>
+</p>
+
+
 
 ## Modelos probados hasta ahora
 
