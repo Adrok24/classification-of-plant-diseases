@@ -36,7 +36,7 @@ Distribución del dataset por tipo de planta,
   <img src="https://github.com/Adrok24/classification-of-plant-diseases/blob/main/images/piechart_type.png?raw=true" alt="grafico_3"/>
 </p>
 
-Un análisis estadístico del dataset puede ser consultado en la siguiente notebook: [Notebook](https://github.com/Adrok24/classification-of-plant-doseases/blob/first_version/Estadisticas.)
+Un análisis estadístico del dataset puede ser consultado en la siguiente notebook: [Notebook](https://github.com/Adrok24/classification-of-plant-diseases/blob/first_version/Estadistica.ipynb)
 
 ## Modelos probados hasta ahora
 
