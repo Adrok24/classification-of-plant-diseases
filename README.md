@@ -41,22 +41,25 @@ Un análisis estadístico del dataset puede ser consultado en la siguiente noteb
 ## Modelos entrenados para la clasificación del dataset
 
 ### Modelos simple output
-* CNN Custom
+* CNN Custom [Notebook](https://github.com/Adrok24/classification-of-plant-diseases/blob/first_version/simple_output_custom.ipynb)
 
-* ResNet50
+* ResNet50 [Notebook]
 
-* ResNet101V2 
+* ResNet101V2 [Notebook](https://github.com/Adrok24/classification-of-plant-diseases/blob/first_version/simple_output_resnet101.ipynb)
 
-* VGG16
+* VGG16 [Notebook](https://github.com/Adrok24/classification-of-plant-diseases/blob/first_version/simple_output_VGG16.ipynb)
 
 
 ### Modelos multi output
 
-* Modelo multi output 1
+* Modelo multi output 1 [Notebook](https://github.com/Adrok24/classification-of-plant-diseases/blob/first_version/multi_output_model_1.ipynb)
 
-* Modelo multi output 2
+* Modelo multi output 2 [Notebook](https://github.com/Adrok24/classification-of-plant-diseases/blob/first_version/multi_output_model_2.ipynb)
 
-* Modelo multi output con ResNet
+* Modelo multi output con ResNet [Notebook](https://github.com/Adrok24/classification-of-plant-diseases/blob/first_version/multi_output_resNet.ipynb)
+
+
+* Otras pruebas pueden encontrarse en la [carpeta](https://github.com/Adrok24/classification-of-plant-diseases/tree/first_version/Otras%20pruebas/) 
 
 
 
