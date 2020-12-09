@@ -40,7 +40,7 @@ Un análisis estadístico del dataset puede ser consultado en la siguiente noteb
 
 ## Modelos entrenados para la clasificación del dataset
 
-Las pruebas se dividieron en modelos tipo salida única y de salida doble. Los de salida doble brindan clasificaciones por separado por tipo de planta y por enfermedad de la planta. Una guía completa por los esquemas y modelos utilizados puede ser consultado en la siguiente [presentación](https://github.com/Adrok24/classification-of-plant-diseases/blob/first_version/presentacion/Presentacion.pptx).
+Las pruebas se dividieron en modelos de salida única y de salida doble. Los de salida doble brindan clasificaciones por separado por tipo de planta y por enfermedad de la planta. Una guía completa por los esquemas y modelos utilizados puede ser consultado en la siguiente [presentación](https://github.com/Adrok24/classification-of-plant-diseases/blob/first_version/presentacion/Presentacion.pptx).
 
 
 ### Modelos simple output
