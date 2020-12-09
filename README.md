@@ -66,6 +66,16 @@ Las pruebas se dividieron en modelos de salida única y de salida doble. Los de 
 
 
 
+## Visualizaciones
+
+Se realizó un análisis de la salida de las distintas capas convolucionales para los modelos multi output. Estas visualizaciones de los filtros se pueden consultar en la siguiente [carpeta](https://github.com/Adrok24/classification-of-plant-diseases/tree/main/visualizaciones)
+
+
+## Web Scrapper
+
+Con el fin de ampliar el dataset o de realizar otro tipo de pruebas con más imágenes de plantas se realizó un web-scrapper [Notebook](https://github.com/Adrok24/classification-of-plant-diseases/blob/main/web_scrapper.ipynb)
+
+
 
 
 <a id="1">[1]</a> An open access repository of images on plant health to enable the development of mobile disease diagnostics, David. P. Hughes and Marcel Salathe, 2016.
