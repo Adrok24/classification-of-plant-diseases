@@ -38,17 +38,25 @@ Distribución del dataset por tipo de planta,
 
 Un análisis estadístico del dataset puede ser consultado en la siguiente notebook: [Notebook](https://github.com/Adrok24/classification-of-plant-diseases/blob/first_version/Estadistica.ipynb)
 
-## Modelos probados hasta ahora
+## Modelos entrenados para la clasificación del dataset
 
+### Modelos simple output
 * CNN Custom
 
 * ResNet50
 
 * ResNet101V2 
 
-* Modelos Multi Output
-
 * VGG16
+
+
+### Modelos multi output
+
+* Modelo multi output 1
+
+* Modelo multi output 2
+
+* Modelo multi output con ResNet
 
 
 
