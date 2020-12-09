@@ -23,20 +23,20 @@ El dataset provisto por PlantVillage consta de 54303 imágenes de hojas sanas y 
 
 </p>
 
-Distribución del dataset por clase
+Distribución del dataset por clase,
 
 <p align="center">
   <img src="https://github.com/Adrok24/classification-of-plant-diseases/blob/main/images/plants_distribution.png?raw=true" alt="grafico_2"/>
 </p>
 
 
-Distribución del dataset por tipo de planta
+Distribución del dataset por tipo de planta, 
 
 <p align="center">
   <img src="https://github.com/Adrok24/classification-of-plant-diseases/blob/main/images/piechart_type.png?raw=true" alt="grafico_3"/>
 </p>
 
-
+Un análisis estadístico del dataset puede ser consultado en la siguiente notebook: [Notebook](https://github.com/Adrok24/classification-of-plant-doseases/blob/first_version/Estadisticas.)
 
 ## Modelos probados hasta ahora
 
